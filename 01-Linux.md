@@ -4,6 +4,12 @@
 
 Useful commands to operate with files and folders.
 
+|Command|Description|
+|---|---|
+|pwd|Print current directory|
+|ls|Show files and directories in current folder|
+
+
 Print current directory:
 ```
 pwd
