@@ -5,6 +5,7 @@ Linux
 
 Hadoop
 - HDFS, CLI
+- Map Reduce
 
 Python
 
