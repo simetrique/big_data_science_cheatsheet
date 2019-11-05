@@ -6,15 +6,22 @@ Useful commands to operate with files and folders.
 
 Print current directory:
 ```
-$ pwd
-/home/admin
+pwd
 ```
 
 Show files and directories in current folder:
 ```
-$ ls
-Applications Desktop Documents Downloads Dropbox
+ls
+
+# Show files and directories as a list
+ls -l
+
+# how all including hidden files and folders
+ls -la
 ```
+
+
+
 
 Show files and directories as a list:
 ```
