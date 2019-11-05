@@ -19,7 +19,7 @@ du -bsh *
 ## Editors
 
 
-## Access rights
+## Permissions
 
 
 ## Utilities
