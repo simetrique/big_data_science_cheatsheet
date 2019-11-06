@@ -10,7 +10,7 @@ Hadoop
 
 Python
 
-ML with Python
+Machine Learning with Python
 - Text-mining
 - Classification
 - Clustering
@@ -22,7 +22,7 @@ Spark
 - Pyspark
 - Spark ML
 
-ETL
+Data engineering and pipelines
 - functional data pipelines, dagster
 - dremio
 
