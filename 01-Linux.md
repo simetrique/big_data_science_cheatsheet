@@ -16,6 +16,7 @@ General commands:
 CRUD:
 
 |Command|Description|
+|---|---|
 |`touch myfile.txt`| Create file `myfile.txt`|
 |`cp file.txt ~/docs`| Copy `file.txt` to directory `~/docs`|
 |`cp -R dir1 dir2`| Copy (recursively) directory `dir1` to `dir2`|
@@ -27,6 +28,7 @@ CRUD:
 Preview files:
 
 |Command|Description|
+|---|---|
 |`cat file.txt`| Print full content of the file|
 |`head file.txt`| Print first 10 lines of the file|
 |`head -n100 file.txt`| Print first 100 lines|
