@@ -33,7 +33,7 @@ Preview files:
 |`head file.txt`| Print first 10 lines of the file|
 |`head -n100 file.txt`| Print first 100 lines|
 |`tail file.txt` or `tail -n100`| Print last 10/100 lines of file|
-|`less file.txt`| Open file in preview mode|
+|`less file.txt`| Open file in preview mode (page-by-page)<br>Press `q` to exit|
 
 
 Show size of all files and folders in human-readable format:
