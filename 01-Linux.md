@@ -3,6 +3,7 @@
 ## Files and folders
 
 General commands:
+
 |Command|Description|
 |---|---|
 |`pwd`|Print current directory|
@@ -13,6 +14,7 @@ General commands:
 |`cd ..`|Go one level up|
 
 CRUD:
+
 |Command|Description|
 |`touch myfile.txt`| Create file `myfile.txt`|
 |`cp file.txt ~/docs`| Copy `file.txt` to directory `~/docs`|
@@ -23,6 +25,7 @@ CRUD:
 |`rm -r dir1`| Remove directory|
 
 Preview files:
+
 |Command|Description|
 |`cat file.txt`| Print full content of the file|
 |`head file.txt`| Print first 10 lines of the file|
