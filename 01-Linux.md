@@ -13,6 +13,7 @@ General commands:
 |`cd /abc`|Change directory, go inside /abc|
 |`cd ..`|Go one level up|
 |`du -bsh *`|Show size of all files and folders in human-readable format|
+|`find /user/home -name file.txt`| Find location of `file.txt` in home folder|
 
 CRUD:
 
